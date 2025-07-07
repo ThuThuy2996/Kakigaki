@@ -1,0 +1,6 @@
+@KakigaiAPI_HostAddress = http://localhost:5028
+
+GET {{KakigaiAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
