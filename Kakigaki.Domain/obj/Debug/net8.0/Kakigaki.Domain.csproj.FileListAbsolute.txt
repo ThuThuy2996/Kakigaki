@@ -1,0 +1,12 @@
+/Users/ngodatq26/Documents/Projects/Kakigaki/Kakigaki.Domain/bin/Debug/net8.0/Kakigaki.Domain.deps.json
+/Users/ngodatq26/Documents/Projects/Kakigaki/Kakigaki.Domain/bin/Debug/net8.0/Kakigaki.Domain.dll
+/Users/ngodatq26/Documents/Projects/Kakigaki/Kakigaki.Domain/bin/Debug/net8.0/Kakigaki.Domain.pdb
+/Users/ngodatq26/Documents/Projects/Kakigaki/Kakigaki.Domain/obj/Debug/net8.0/Kakigaki.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngodatq26/Documents/Projects/Kakigaki/Kakigaki.Domain/obj/Debug/net8.0/Kakigaki.Domain.AssemblyInfoInputs.cache
+/Users/ngodatq26/Documents/Projects/Kakigaki/Kakigaki.Domain/obj/Debug/net8.0/Kakigaki.Domain.AssemblyInfo.cs
+/Users/ngodatq26/Documents/Projects/Kakigaki/Kakigaki.Domain/obj/Debug/net8.0/Kakigaki.Domain.csproj.CoreCompileInputs.cache
+/Users/ngodatq26/Documents/Projects/Kakigaki/Kakigaki.Domain/obj/Debug/net8.0/Kakigaki.Domain.sourcelink.json
+/Users/ngodatq26/Documents/Projects/Kakigaki/Kakigaki.Domain/obj/Debug/net8.0/Kakigaki.Domain.dll
+/Users/ngodatq26/Documents/Projects/Kakigaki/Kakigaki.Domain/obj/Debug/net8.0/refint/Kakigaki.Domain.dll
+/Users/ngodatq26/Documents/Projects/Kakigaki/Kakigaki.Domain/obj/Debug/net8.0/Kakigaki.Domain.pdb
+/Users/ngodatq26/Documents/Projects/Kakigaki/Kakigaki.Domain/obj/Debug/net8.0/ref/Kakigaki.Domain.dll

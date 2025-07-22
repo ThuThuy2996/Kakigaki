@@ -8,13 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Kakigaki.Domain\Kakigaki.Domain.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="Interfaces\" />
-    <Folder Include="Validators\" />
-    <Folder Include="Services\" />
+    <ProjectReference Include="..\Kakigaki.Infrastructure\Kakigaki.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
