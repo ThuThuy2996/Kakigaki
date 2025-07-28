@@ -8,13 +8,15 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Kakigaki.Domain\Kakigaki.Domain.csproj" />
+    <ProjectReference Include="..\Kakigaki.Infrastructure\Kakigaki.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="Interfaces\" />
     <Folder Include="Validators\" />
-    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="8.0.1" />
   </ItemGroup>
 
 </Project>

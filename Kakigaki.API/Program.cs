@@ -1,4 +1,8 @@
 
+using AutoMapper;
+using Kakigaki.Application.Mappings;
+using Kakigaki.Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
 using System;
 
 namespace KakigaiAPI
@@ -9,8 +13,12 @@ namespace KakigaiAPI
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            
 
+            builder.Services.AddDbContext<AppDbContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+            builder.Services.AddProjectServices();
+            //builder.Services.AddAutoMapper(typeof(UserMappingProfile).Assembly);
 
             // Add services to the container.
 
